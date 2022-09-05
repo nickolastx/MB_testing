@@ -12,6 +12,9 @@ msgstr ""
 msgid "Let’s make the web multilingual."
 msgstr "Machen wir das Internet mehrsprachig."
 
+msgid "this is a test2 branch."
+msgstr "Dies ist ein Test2-Zweig."
+
 msgid "We connect developers and translators around the globe "
 "on Lingohub for a fantastic localization experience."
 msgstr "Wir verbinden Entwickler mit Übersetzern weltweit "
